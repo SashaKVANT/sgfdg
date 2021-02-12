@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
   
     std::cout << "Почти получилось";
+    std::cout << "Почти получилось";
 
 }
 
