@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-
+discard
 int main()
 {
     std::cout << "Hello World!\n";
